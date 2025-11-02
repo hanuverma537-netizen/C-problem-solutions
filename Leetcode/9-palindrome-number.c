@@ -1,7 +1,7 @@
 /* 
 Problem: Palindrome Number
 Link: https://leetcode.com/problems/palindrome-number/
- Description: Given an integer x, return true if x is a palindrome, and false otherwise.
+Description: Given an integer x, return true if x is a palindrome, and false otherwise.
 */
 #include<stdio.h>
 #include<stdbool.h>
