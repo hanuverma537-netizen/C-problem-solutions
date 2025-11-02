@@ -1,7 +1,7 @@
 /*
 Problem: Pointers in C
 Link: https://www.hackerrank.com/challenges/pointer-in-c/problem
-Description: Complete the function void update(int *a,int *b). It receives two integer pointers, int* a and int* b. Set the value of  to their sum, and  to their absolute difference.
+Description: Complete the function void update(int *a,int *b). It receives two integer pointers, int* a and int* b. Set the value of a to their sum, and b to their absolute difference.
 */
 
 #include <stdio.h>
