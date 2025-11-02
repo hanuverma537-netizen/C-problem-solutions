@@ -1,1 +1,10 @@
-.exe
+#Ignore compiled files 
+*.exe
+*.out
+*.o
+
+# Ignore system/temporary files 
+*.log
+*.tmp
+
+# Ignore VS code folders .vscode/
