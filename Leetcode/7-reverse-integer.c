@@ -20,4 +20,5 @@ int main() {
     scanf("%d", &x);
     int revNum = reverse(x);
     printf("%d", revNum);
+    return 0;
 }
