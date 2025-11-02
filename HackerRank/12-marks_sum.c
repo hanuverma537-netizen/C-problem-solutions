@@ -8,7 +8,7 @@ Similarly, marks1, marks3, marks5 and so on denote the marks of girls.
 
 Function Returns:
 
-int: the sum of marks for boys if gender = b, or of marks of girls if gender = g.
+int: the sum of marks for boys if gender = b, or of marks of girls if gender = g
 */
 
 #include <stdio.h>
