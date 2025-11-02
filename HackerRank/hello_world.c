@@ -1,5 +1,5 @@
 /*
-Problem: "Hello World" in c from HackerRank
+Problem: "Hello World!" in c
 Link: https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true
 Description: 
 Print "Hello, World!" on the first line and the input string on the next line.
